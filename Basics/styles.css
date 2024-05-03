@@ -1,0 +1,12 @@
+
+body{
+    background: #222 ;
+}
+.search-box{
+    width: 100%;
+    font-size: 50px;
+    display: flex;
+    border: hsl(0, 0%, 100%) solid 2px;
+    align-items: center;    
+    justify-content: space-between;
+}
