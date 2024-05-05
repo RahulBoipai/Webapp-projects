@@ -88,3 +88,16 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
+.weather{
+    display: None;
+}
+.error{
+    
+    color: #ff0033;
+    font-size: 20px;
+    margin-top: 20px;
+    padding : 10px;
+    border-radius: 10px;
+    align-items: center;
+    
+}
